@@ -3,7 +3,7 @@ const fibonacci = function(input) {
     if (validInput){
         return createFibonacci(input);
     } else {
-        return "Oops!";
+        return "OOPS";
     }
 };
 
